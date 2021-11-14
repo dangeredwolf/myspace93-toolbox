@@ -1,0 +1,18 @@
+{
+  "name": "myspace93-toolbox",
+  "version": "69.0.0",
+  "description": "dangered wolf's Toolbox for the now-defunct MySpace93",
+  "main": "myspace_friender.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "scripts": {
+    "friender": "node myspace_friender.js",
+    "high_friend_finder": "node myspace_high_friend_finder.js",
+    "messenger": "node myspace_messenger.js",
+    "friend_count_iterator": "node myspace_friend_count_iterator.js",
+    "updatelist": "node myspace_updatelist.js"
+  },
+  "author": "dangered wolf",
+  "license": "CC0-1.0"
+}
