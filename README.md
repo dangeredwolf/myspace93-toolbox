@@ -29,6 +29,8 @@ So I continued to use them and I developed new tools.
 
 I used my tools to gain friend dominance, and monitor my rise as one of the most friended people on Windows 93 MySpace... all while it was happening. I was able myself go from Top 20 or so to finally resting at Top 6 most friended person on the entire platform.
 
+These tools are Node.JS, and depend on Axios, a library for sending HTTP requests. You can install it by just running `npm install` in the directory.
+
 ## The friend data
 
 I've already done the work of creating a final tally of every Windows 93 MySpace user, sorted by # of friends, which is available at [myspace_most_friended.csv](https://github.com/dangeredwolf/myspace93-toolbox/blob/master/myspace_most_friended.csv). You can just find your display name or ID and check which line it's on. To count the number of lines, you should open it in a text editor or spreadsheet software (Microsoft Excel, Google Sheets) on your computer.
